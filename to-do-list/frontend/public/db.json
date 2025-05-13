@@ -1,0 +1,10 @@
+{
+    "tasks": [
+        {
+            "content": "Tarea de prueba",
+            "check": false,
+            "priority": "baja",
+            "id": 1
+        }
+    ]
+}
